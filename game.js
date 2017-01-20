@@ -1,4 +1,4 @@
-let sequence = []
+let sequence = [];
 function randomColor () {
   let number = Math.random() * 4
   if (number < 1) {
